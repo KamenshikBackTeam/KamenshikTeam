@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KamenshikTeam
 - 👀 I’m interested in WebDevelopment
-- 😎 I’m expert in NextJS and NestJS
+- 😎 I’m expert in NestJS
 - 📫 How to reach me: incubator_staz_2024@mail.ru
 
 <!---
